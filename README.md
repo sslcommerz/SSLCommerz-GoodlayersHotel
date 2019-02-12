@@ -1,9 +1,8 @@
 Goodlayers Hotel Plugin
 -------------------------------------------------
-
+*** Note: A HOTEL ROOM Plugin To Use With Goodlayers Theme (This plugin functionality might not working properly on another theme)
 1. Download plugin from github.
 2. Install plugin.
-** Note: A HOTEL ROOM Plugin to Use with Good layers Theme
 3. After successfully installation of plugin, you will get Hotel Option.
 4. Go to Hotel Option->General Option, Select Instant Payment Method-> SSLCommerz
 5. After completion previous step, Go to Hotel Option->SSLcommerz tab.
@@ -17,4 +16,4 @@ Goodlayers Hotel Plugin
 - Team Email: integration@sslcommerz.com (For any query)
 - More info: https://www.sslcommerz.com
 
-© 2019 SSLCOMMERZ ALL RIGHTS RESERVED
+Â© 2019 SSLCOMMERZ ALL RIGHTS RESERVED
