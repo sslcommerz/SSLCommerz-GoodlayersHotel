@@ -1,0 +1,1400 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Goodlayers Hotel\n"
+"POT-Creation-Date: 2015-11-17 22:08+0400\n"
+"PO-Revision-Date: 2015-11-19 02:07+0400\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: C:/xampp/htdocs/hotelmaster/wp-content/plugins/gdlr-"
+"hotel\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Last-Translator: \n"
+"Language: ru_RU\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: framework/gdlr-coupon-option.php:18 framework/gdlr-coupon-option.php:19
+#: framework/gdlr-coupon-option.php:30
+msgid "Coupon"
+msgstr "Купон"
+
+#: framework/gdlr-coupon-option.php:20 framework/gdlr-room-option.php:30
+#: framework/gdlr-service-option.php:18
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: framework/gdlr-coupon-option.php:21
+msgid "Add New Coupon"
+msgstr "Добавить новый купон"
+
+#: framework/gdlr-coupon-option.php:22
+msgid "Edit Coupon"
+msgstr "Редактировать купон"
+
+#: framework/gdlr-coupon-option.php:23
+msgid "New Coupon"
+msgstr "Новый купон"
+
+#: framework/gdlr-coupon-option.php:24
+msgid "All Coupon"
+msgstr "Все купоны"
+
+#: framework/gdlr-coupon-option.php:25
+msgid "View Coupon"
+msgstr "Посмотреть купон"
+
+#: framework/gdlr-coupon-option.php:26
+msgid "Search Coupon"
+msgstr "Поиск купона"
+
+#: framework/gdlr-coupon-option.php:27
+msgid "No coupon found"
+msgstr "Купоны не найдены"
+
+#: framework/gdlr-coupon-option.php:28
+msgid "No coupon found in Trash"
+msgstr "Купоны не найдены в корзине"
+
+#: framework/gdlr-coupon-option.php:71
+msgid "Goodlayers Coupon Option"
+msgstr "Goodlayers - Опции купона"
+
+#: framework/gdlr-coupon-option.php:80 framework/gdlr-room-option.php:137
+msgid "Page Layout"
+msgstr "Слой страницы"
+
+#: framework/gdlr-coupon-option.php:83 include/gdlr-booking-item.php:503
+msgid "Coupon Code"
+msgstr "Код купона"
+
+#: framework/gdlr-coupon-option.php:88
+msgid "Coupon Amount"
+msgstr "Количество купонов"
+
+#: framework/gdlr-coupon-option.php:91
+msgid "Fill -1 for unlimited uses"
+msgstr "Введите -1 для неограниченного использования"
+
+#: framework/gdlr-coupon-option.php:94
+msgid "Coupon Expiry"
+msgstr "Срок действия купона"
+
+#: framework/gdlr-coupon-option.php:98
+msgid "Coupon Discount Type"
+msgstr "Тип скидки"
+
+#: framework/gdlr-coupon-option.php:101
+msgid "Percent"
+msgstr "Процент"
+
+#: framework/gdlr-coupon-option.php:102
+msgid "Amount"
+msgstr "Количество"
+
+#: framework/gdlr-coupon-option.php:106
+msgid "Coupon Discount Amount"
+msgstr "Величина скидки"
+
+#: framework/gdlr-coupon-option.php:108
+msgid "Only number is allowed here"
+msgstr "Тут может быть введён только номер"
+
+#: framework/gdlr-coupon-option.php:111
+msgid "Apply only to specific room ( room id separated by comma )"
+msgstr ""
+"Применить только к определённой комнате (ID комнат указывать через запятую)"
+
+#: framework/gdlr-room-option.php:28 include/gdlr-reservation-bar.php:346
+msgid "Rooms"
+msgstr "Номера"
+
+#: framework/gdlr-room-option.php:29 framework/gdlr-service-option.php:124
+#: framework/gdlr-transaction.php:141 framework/gdlr-transaction.php:395
+#: include/gdlr-booking-item.php:422 include/gdlr-reservation-bar.php:83
+#: include/gdlr-reservation-bar.php:252 include/gdlr-reservation-bar.php:355
+#: include/gdlr-utility.php:42
+msgid "Room"
+msgstr "Номер"
+
+#: framework/gdlr-room-option.php:31
+msgid "Add New Room"
+msgstr "Добавить новый номер"
+
+#: framework/gdlr-room-option.php:32
+msgid "Edit Room"
+msgstr "Редактировать номер"
+
+#: framework/gdlr-room-option.php:33
+msgid "New Room"
+msgstr "Новый номер"
+
+#: framework/gdlr-room-option.php:34
+msgid "All Rooms"
+msgstr "Все номера"
+
+#: framework/gdlr-room-option.php:35
+msgid "View Room"
+msgstr "Просмотр номера"
+
+#: framework/gdlr-room-option.php:36
+msgid "Search Room"
+msgstr "Искать номера"
+
+#: framework/gdlr-room-option.php:37
+msgid "No rooms found"
+msgstr "Номера не найдены"
+
+#: framework/gdlr-room-option.php:38
+msgid "No rooms found in Trash"
+msgstr "Номера не найдены в корзине"
+
+#: framework/gdlr-room-option.php:40
+msgid "Rooms (Hotel)"
+msgstr "Номера (Отель)"
+
+#: framework/gdlr-room-option.php:61
+msgid "Room Categories"
+msgstr "Категории номеров"
+
+#: framework/gdlr-room-option.php:62
+msgid "Room Category"
+msgstr "Категория номера"
+
+#: framework/gdlr-room-option.php:77
+msgid "Hotel Thumbnail"
+msgstr "Эскиз Отеля"
+
+#: framework/gdlr-room-option.php:81
+msgid "Hotel Location"
+msgstr "Местоположение Отеля"
+
+#: framework/gdlr-room-option.php:94
+msgid "Room Tags"
+msgstr "Тэги номеров"
+
+#: framework/gdlr-room-option.php:95
+msgid "Room Tag"
+msgstr "Тэг номера"
+
+#: framework/gdlr-room-option.php:127
+msgid "Goodlayers Room Option"
+msgstr "Goodlayers - Опции номеров"
+
+#: framework/gdlr-room-option.php:140
+msgid "Page Title"
+msgstr "Заголовок страницы"
+
+#: framework/gdlr-room-option.php:144
+msgid "Page Caption"
+msgstr "Подпись страницы"
+
+#: framework/gdlr-room-option.php:148
+msgid "Header Background Image"
+msgstr "Фон Хедера"
+
+#: framework/gdlr-room-option.php:149
+msgid "Upload"
+msgstr "Загрузить"
+
+#: framework/gdlr-room-option.php:156
+msgid "Page Option"
+msgstr "Опции страницы"
+
+#: framework/gdlr-room-option.php:159
+msgid "Room Amount"
+msgstr "Количество номеров"
+
+#: framework/gdlr-room-option.php:163
+msgid ""
+"Number of room available on the same period of time. Only fill number here."
+msgstr ""
+"Кол-во комнат доступно на тот же период времени. Пожалуйста, введите тут "
+"только номер."
+
+#: framework/gdlr-room-option.php:166
+msgid "Max People"
+msgstr "Макс. кол-во человек"
+
+#: framework/gdlr-room-option.php:170
+msgid "Maximum number of people that can stay in this room."
+msgstr "Макс. кол-во людей, которые могут остановиться в этом номере."
+
+#: framework/gdlr-room-option.php:175
+msgid "Room Price"
+msgstr "Цена за номер"
+
+#: framework/gdlr-room-option.php:180
+msgid "Base Price Weekend"
+msgstr "Базовая цена - выходные"
+
+#: framework/gdlr-room-option.php:186
+msgid "Base Price Weekday"
+msgstr "Базовая цена - будни"
+
+#: framework/gdlr-room-option.php:192
+msgid "Base Price Guests"
+msgstr "Базовая цена - гости"
+
+#: framework/gdlr-room-option.php:200
+msgid ""
+"<strong>*Base Price Guests</strong> is for maximum guests amount that will "
+"be charged with Base Price. Addtional guests will be charged by below "
+"pricing option. Base Price field accepts only number. Don’t fill currency "
+"sign nor commas."
+msgstr ""
+"<strong>*Базовая цена - гости</strong> это для максимального количества "
+"гостей, которые оплачивают по Базовой цене.  Дополнительные гости оплачивают "
+"по цене, указанной ниже. В поле Базовой цены вводится только номер. Не "
+"заполняйте его знаками валюты, запятыми и т.д."
+
+#: framework/gdlr-room-option.php:204 framework/gdlr-room-option.php:223
+msgid "Adult Price"
+msgstr "Цена за взрослого"
+
+#: framework/gdlr-room-option.php:210 framework/gdlr-room-option.php:229
+msgid "Children Price"
+msgstr "Цена за ребёнка"
+
+#: framework/gdlr-room-option.php:218
+msgid "<strong>Weekend.</strong> Fill only number."
+msgstr "<strong>Выходные.</strong> Введите только номер."
+
+#: framework/gdlr-room-option.php:237
+msgid "<strong>Weekday.</strong> Fill only number."
+msgstr "<strong>Будни.</strong> Введите только номер."
+
+#: framework/gdlr-room-option.php:243
+msgid "Seasonal Room Price"
+msgstr "Сезонные цены на номера"
+
+#: framework/gdlr-room-option.php:248
+msgid "Add Seasonal Prices"
+msgstr "Добавить сезонные цены"
+
+#: framework/gdlr-room-option.php:254
+msgid "Add Facilities and Services"
+msgstr "Добавить Услуги и Сервис"
+
+#: framework/gdlr-room-option.php:259
+msgid "Thumbnail Type"
+msgstr "Тип эскиза"
+
+#: framework/gdlr-room-option.php:262
+msgid "Feature Image"
+msgstr "Особенность картинки"
+
+#: framework/gdlr-room-option.php:263 framework/gdlr-room-option.php:284
+msgid "Video"
+msgstr "Видео"
+
+#: framework/gdlr-room-option.php:264 framework/gdlr-room-option.php:274
+#: framework/gdlr-room-option.php:285 framework/gdlr-room-option.php:301
+msgid "Slider"
+msgstr "Слайдер"
+
+#: framework/gdlr-room-option.php:269 framework/gdlr-room-option.php:296
+msgid "Video Url"
+msgstr "Видео URL"
+
+#: framework/gdlr-room-option.php:279
+msgid "Inside Room Thumbnail Type"
+msgstr "Тип эскиза внутри комнаты"
+
+#: framework/gdlr-room-option.php:282
+msgid "Same As Thumbnail Type"
+msgstr "Такой же, как эскиз комнаты"
+
+#: framework/gdlr-room-option.php:283
+msgid "Image"
+msgstr "Картинка"
+
+#: framework/gdlr-room-option.php:286
+msgid "Stack Images"
+msgstr "Стоковые картинки"
+
+#: framework/gdlr-room-option.php:291
+msgid "Image Url"
+msgstr "Картинка URL"
+
+#: framework/gdlr-room-option.php:321
+msgid "Hotel Room"
+msgstr "Номер отеля"
+
+#: framework/gdlr-room-option.php:323
+msgid "View all rooms"
+msgstr "Посмотреть все номера"
+
+#: framework/gdlr-room-option.php:325
+msgid "Category"
+msgstr "Категория"
+
+#: framework/gdlr-room-option.php:328
+msgid ""
+"You can use Ctrl/Command button to select multiple categories or remove the "
+"selected category. <br><br> Leave this field blank to select all categories."
+msgstr ""
+"Вы можете использовать Ctrl/Command button, чтобы осуществить выбор "
+"нескольких категорий или удалить выбранные категории. <br><br> Оставьте это "
+"поле пустым, чтобы выбрать все категории."
+
+#: framework/gdlr-room-option.php:331
+msgid "Tag"
+msgstr "Тэг"
+
+#: framework/gdlr-room-option.php:334 framework/gdlr-room-option.php:415
+msgid "Will be ignored when the room filter option is enabled."
+msgstr "Будет игнорироваться, когда фильтр номеров включён"
+
+#: framework/gdlr-room-option.php:337 framework/plugin-option.php:177
+msgid "Room Style"
+msgstr "Стиль номера"
+
+#: framework/gdlr-room-option.php:340
+msgid "Classic"
+msgstr "Классический"
+
+#: framework/gdlr-room-option.php:341
+msgid "Classic No Space"
+msgstr "Классический без пробелов"
+
+#: framework/gdlr-room-option.php:342
+msgid "Modern"
+msgstr "Модерн"
+
+#: framework/gdlr-room-option.php:343
+msgid "Modern No Space"
+msgstr "Модерн без пробелов"
+
+#: framework/gdlr-room-option.php:344
+msgid "Medium Thumbnail"
+msgstr "Средние эскизы"
+
+#: framework/gdlr-room-option.php:348
+msgid "Room Carousel"
+msgstr "Карусель номеров"
+
+#: framework/gdlr-room-option.php:353
+msgid "Room Column Size"
+msgstr "Размер колонки номера"
+
+#: framework/gdlr-room-option.php:360
+msgid "Num Fetch"
+msgstr "Num Fetch"
+
+#: framework/gdlr-room-option.php:363
+msgid "Specify the number of rooms you want to pull out."
+msgstr "Укажите количество номеров, которые вы хотите извлечь."
+
+#: framework/gdlr-room-option.php:366
+msgid "Num Excerpt"
+msgstr "Num Excerpt"
+
+#: framework/gdlr-room-option.php:372 framework/gdlr-room-option.php:425
+msgid "Thumbnail Size"
+msgstr "Размер эскиза"
+
+#: framework/gdlr-room-option.php:375 framework/gdlr-room-option.php:428
+msgid "Only effects to <strong>standard and gallery post format</strong>"
+msgstr "Оказывает эффект на <strong>стандарт и формат галереи в посте</strong>"
+
+#: framework/gdlr-room-option.php:378
+msgid "Order By"
+msgstr "Сортировать по"
+
+#: framework/gdlr-room-option.php:381
+msgid "Publish Date"
+msgstr "Дата публикации"
+
+#: framework/gdlr-room-option.php:382
+msgid "Title"
+msgstr "Заголовок"
+
+#: framework/gdlr-room-option.php:383
+msgid "Random"
+msgstr "Случайно"
+
+#: framework/gdlr-room-option.php:387
+msgid "Order"
+msgstr "Порядок"
+
+#: framework/gdlr-room-option.php:390
+msgid "Descending Order"
+msgstr "По убыванию"
+
+#: framework/gdlr-room-option.php:391
+msgid "Ascending Order"
+msgstr "По возрастанию"
+
+#: framework/gdlr-room-option.php:395
+msgid "Enable Pagination"
+msgstr "Включить разбиение на страницы"
+
+#: framework/gdlr-room-option.php:399 framework/gdlr-room-option.php:431
+#: include/page-builder-sync.php:14
+msgid "Margin Bottom"
+msgstr "Нижняя маржа"
+
+#: framework/gdlr-room-option.php:402 framework/gdlr-room-option.php:434
+#: include/page-builder-sync.php:17
+msgid "Spaces after ending of this item"
+msgstr "Пробел после окончания этого раздела"
+
+#: framework/gdlr-room-option.php:408
+msgid "Hotel Room Category / Branches"
+msgstr "Номер отеля - Категория/Раздел"
+
+#: framework/gdlr-room-option.php:410
+msgid "View All Branches"
+msgstr "Посмотреть все разделы"
+
+#: framework/gdlr-room-option.php:412
+msgid "Select Category to Display"
+msgstr "Выберите категорию для отображения"
+
+#: framework/gdlr-room-option.php:418
+msgid "Item Column Size"
+msgstr "Размер колонки элемента"
+
+#: framework/gdlr-service-option.php:16
+msgid "Services"
+msgstr "Сервисы"
+
+#: framework/gdlr-service-option.php:17 framework/gdlr-service-option.php:28
+msgid "Service"
+msgstr "Сервис"
+
+#: framework/gdlr-service-option.php:19
+msgid "Add New Service"
+msgstr "Добавить новый сервис"
+
+#: framework/gdlr-service-option.php:20
+msgid "Edit Service"
+msgstr "Редактировать сервис"
+
+#: framework/gdlr-service-option.php:21
+msgid "New Service"
+msgstr "Новый сервис"
+
+#: framework/gdlr-service-option.php:22
+msgid "All Service"
+msgstr "Все сервисы"
+
+#: framework/gdlr-service-option.php:23
+msgid "View Service"
+msgstr "Посмотреть сервис"
+
+#: framework/gdlr-service-option.php:24
+msgid "Search Service"
+msgstr "Искать сервис"
+
+#: framework/gdlr-service-option.php:25
+msgid "No service found"
+msgstr "Сервис не найден"
+
+#: framework/gdlr-service-option.php:26
+msgid "No service found in Trash"
+msgstr "Сервис в корзине не найден"
+
+#: framework/gdlr-service-option.php:70
+msgid "Assign to Hotel Branches"
+msgstr "Связать с разделами Отеля"
+
+#: framework/gdlr-service-option.php:82
+msgid "Assign to Hostel Branches"
+msgstr "Связать с разделами Хостела"
+
+#: framework/gdlr-service-option.php:95
+msgid "Goodlayers Service Option"
+msgstr "Goodlayers - Опции сервиса"
+
+#: framework/gdlr-service-option.php:104
+msgid "Option"
+msgstr "Опции"
+
+#: framework/gdlr-service-option.php:107
+msgid "Service Type"
+msgstr "Тип сервиса"
+
+#: framework/gdlr-service-option.php:110
+msgid "Regular Service"
+msgstr "Регулярное обслуживание"
+
+#: framework/gdlr-service-option.php:111
+msgid "Parking Service"
+msgstr "Сервис парковки"
+
+#: framework/gdlr-service-option.php:115
+msgid "Price (*Only Number)"
+msgstr "Цена (*Только номер)"
+
+#: framework/gdlr-service-option.php:120 framework/gdlr-service-option.php:130
+#: framework/gdlr-service-option.php:139
+msgid "Per"
+msgstr "за"
+
+#: framework/gdlr-service-option.php:123 include/gdlr-booking-item.php:421
+msgid "Guest"
+msgstr "Гость"
+
+#: framework/gdlr-service-option.php:125 framework/gdlr-service-option.php:134
+#: include/gdlr-booking-item.php:420
+msgid "Group"
+msgstr "Группа"
+
+#: framework/gdlr-service-option.php:133 include/gdlr-booking-item.php:419
+msgid "Car"
+msgstr "Машина"
+
+#: framework/gdlr-service-option.php:142 include/gdlr-booking-item.php:417
+#: include/gdlr-price-calculation.php:215
+#: include/gdlr-price-calculation.php:217
+#: include/gdlr-price-calculation.php:220
+#: include/gdlr-price-calculation.php:222 include/gdlr-reservation-bar.php:329
+#: include/gdlr-room-item.php:389 include/page-builder-sync.php:80
+msgid "Night"
+msgstr "Ночь"
+
+#: framework/gdlr-service-option.php:143 include/gdlr-booking-item.php:418
+msgid "Trip"
+msgstr "Поездка"
+
+#: framework/gdlr-transaction.php:51 include/authorize-payment.php:30
+#: include/gdlr-booking-item.php:108 include/paymill-payment.php:159
+#: include/paypal-payment.php:94 include/stripe-payment.php:145
+msgid "Thank you for booking the room with us."
+msgstr "Спасибо за бронирование номера через наш сервис!"
+
+#: framework/gdlr-transaction.php:78
+msgid "Booking List : Deposit Paid"
+msgstr "Лист бронирования: депозитный платёж"
+
+#: framework/gdlr-transaction.php:81
+msgid "Search Transaction By :"
+msgstr "Поиск транзакции по :"
+
+#: framework/gdlr-transaction.php:84 framework/gdlr-transaction.php:140
+msgid "Contact"
+msgstr "Контакты"
+
+#: framework/gdlr-transaction.php:85
+msgid "Room ID"
+msgstr "ID номера"
+
+#: framework/gdlr-transaction.php:86 framework/gdlr-transaction.php:144
+msgid "Code"
+msgstr "Код"
+
+#: framework/gdlr-transaction.php:92
+msgid "Hotel Branches :"
+msgstr "Разделы отеля :"
+
+#: framework/gdlr-transaction.php:95
+msgid "All"
+msgstr "Все"
+
+#: framework/gdlr-transaction.php:108
+msgid "Keywords :"
+msgstr "Ключевые слова :"
+
+#: framework/gdlr-transaction.php:110
+msgid "Search!"
+msgstr "Поиск!"
+
+#: framework/gdlr-transaction.php:117
+msgid "Show new booking"
+msgstr "Показать новое бронирование"
+
+#: framework/gdlr-transaction.php:118
+msgid "Show read booking"
+msgstr "Показать прочитанное брониварование"
+
+#: framework/gdlr-transaction.php:125
+msgid "Bulk Action :"
+msgstr "Мультидействие :"
+
+#: framework/gdlr-transaction.php:128 framework/gdlr-transaction.php:222
+msgid "Mark as read"
+msgstr "Отметить как прочитанное"
+
+#: framework/gdlr-transaction.php:130 framework/gdlr-transaction.php:224
+msgid "Mark as unread"
+msgstr "Отметить как не прочитанное"
+
+#: framework/gdlr-transaction.php:133
+msgid "Cancel Booking"
+msgstr "Отмена Бронирования"
+
+#: framework/gdlr-transaction.php:138
+msgid "id"
+msgstr "ID"
+
+#: framework/gdlr-transaction.php:139
+msgid "Name"
+msgstr "Имя"
+
+#: framework/gdlr-transaction.php:142
+msgid "Payment"
+msgstr "Оплата"
+
+#: framework/gdlr-transaction.php:143
+msgid "Type"
+msgstr "Тип"
+
+#: framework/gdlr-transaction.php:145
+msgid "Action"
+msgstr "Действие"
+
+#: framework/gdlr-transaction.php:197 framework/gdlr-transaction.php:198
+#: framework/gdlr-transaction.php:199
+msgid "Detail"
+msgstr "Детали"
+
+#: framework/gdlr-transaction.php:204
+msgid "Booking"
+msgstr "Бронирование"
+
+#: framework/gdlr-transaction.php:207
+msgid "Full Amount"
+msgstr "Полная цена"
+
+#: framework/gdlr-transaction.php:209 include/gdlr-reservation-bar.php:153
+#: include/gdlr-reservation-bar.php:180
+msgid "Deposit"
+msgstr "Депозит"
+
+#: framework/gdlr-transaction.php:227
+msgid "Mark as paid"
+msgstr "Отметить как оплаченное"
+
+#: framework/gdlr-transaction.php:229
+msgid "Mark as booking"
+msgstr "Отметить"
+
+#: framework/gdlr-transaction.php:245
+msgid "&lsaquo; Previous"
+msgstr "&lsaquo; Назад"
+
+#: framework/gdlr-transaction.php:258
+msgid "Next &rsaquo;"
+msgstr "Дальше &rsaquo;"
+
+#: framework/gdlr-transaction.php:275 include/gdlr-utility.php:20
+msgid "Name :"
+msgstr "Имя :"
+
+#: framework/gdlr-transaction.php:280 include/gdlr-utility.php:21
+msgid "Last Name :"
+msgstr "Фамилия :"
+
+#: framework/gdlr-transaction.php:285 include/gdlr-utility.php:23
+msgid "Email :"
+msgstr "Email :"
+
+#: framework/gdlr-transaction.php:290 include/gdlr-utility.php:22
+msgid "Phone :"
+msgstr "Телефон :"
+
+#: framework/gdlr-transaction.php:295 include/gdlr-utility.php:24
+msgid "Address :"
+msgstr "Адрес :"
+
+#: framework/gdlr-transaction.php:300 include/gdlr-utility.php:25
+msgid "Additional Note :"
+msgstr "Дополнительный комментарий :"
+
+#: framework/gdlr-transaction.php:332
+msgid "Payment Date :"
+msgstr "Дата платежа :"
+
+#: framework/gdlr-transaction.php:337
+msgid "Payment Channel :"
+msgstr "Канал оплаты :"
+
+#: framework/gdlr-transaction.php:342
+msgid "Payment Transaction ID :"
+msgstr "ID платежа :"
+
+#: framework/gdlr-transaction.php:347 include/gdlr-utility.php:63
+msgid "Pay Amount :"
+msgstr "Сумма платежа :"
+
+#: framework/gdlr-transaction.php:352
+msgid "Pay on Arrival :"
+msgstr "Оплата по прибытию :"
+
+#: framework/gdlr-transaction.php:359
+msgid "Coupon Code :"
+msgstr "Код купона :"
+
+#: framework/gdlr-transaction.php:384
+msgid "Arrival Date :"
+msgstr "Дата заезда :"
+
+#: framework/gdlr-transaction.php:389
+msgid "Check Out Date :"
+msgstr "Дата выезда :"
+
+#: framework/gdlr-transaction.php:398 include/gdlr-utility.php:43
+msgid "Adult :"
+msgstr "Взрослые :"
+
+#: framework/gdlr-transaction.php:399 include/gdlr-utility.php:44
+msgid "Children :"
+msgstr "Дети :"
+
+#: framework/gdlr-transaction.php:407 include/gdlr-reservation-bar.php:100
+#: include/gdlr-utility.php:51
+msgid "Additional Services"
+msgstr "Дополнительные сервисы"
+
+#: framework/plugin-option.php:10
+msgid "Transaction"
+msgstr "Платежи"
+
+#: framework/plugin-option.php:38 framework/plugin-option.php:39
+msgid "Hotel Option"
+msgstr "Настройки Отеля"
+
+#: framework/plugin-option.php:50
+msgid "General"
+msgstr "Главная"
+
+#: framework/plugin-option.php:55
+msgid "Booking Option"
+msgstr "Варианты бронирования"
+
+#: framework/plugin-option.php:58
+msgid "Booking Page Slug"
+msgstr "Страница бронирования"
+
+#: framework/plugin-option.php:61
+msgid "Please only fill lower case character with no special character here."
+msgstr ""
+"Пожалуйста, заполните только строчными буквами, без использования "
+"специальных знаков."
+
+#: framework/plugin-option.php:64
+msgid "Transaction Per Page"
+msgstr "Платежи на страницу"
+
+#: framework/plugin-option.php:69
+msgid "Money Display Format"
+msgstr "Формат отображения валюты"
+
+#: framework/plugin-option.php:74
+msgid "Enable Hotel Branch ( Using Category )"
+msgstr "Акт-ть раздел отеля (используемая категория)"
+
+#: framework/plugin-option.php:79
+msgid "Preserve The Room After"
+msgstr "Сохранить номер после(?)"
+
+#: framework/plugin-option.php:82
+msgid "Paid for room"
+msgstr "Оплачено за номер"
+
+#: framework/plugin-option.php:83
+msgid "Booking for room"
+msgstr "Бронирование номера"
+
+#: framework/plugin-option.php:87
+msgid "Booking Price Display"
+msgstr "Отображаемая цена бронирования"
+
+#: framework/plugin-option.php:90 include/gdlr-room-item.php:388
+msgid "Start From"
+msgstr "Цена от"
+
+#: framework/plugin-option.php:91
+msgid "Full Price"
+msgstr "Полная цена"
+
+#: framework/plugin-option.php:95
+msgid "Vat Amount"
+msgstr "Размер НДС"
+
+#: framework/plugin-option.php:98
+msgid "Input only number ( as percent )"
+msgstr "Введите только число (как проценты)"
+
+#: framework/plugin-option.php:99 framework/plugin-option.php:112
+msgid "Filling 0 to disable this option out."
+msgstr "Введите 0, чтобы отключить эту опцию."
+
+#: framework/plugin-option.php:102
+msgid "Block Date"
+msgstr "Блок-дата"
+
+#: framework/plugin-option.php:105
+msgid ""
+"Fill the date in yyyy-mm-dd format. Use * for recurring date, separated each "
+"date using comma, use the word 'to' for date range. Ex. *-12-25 to *-12-31 "
+"means special season is running every Christmas to New Year's Eve every year."
+msgstr ""
+"Введите дату в формате yyyy-mm-dd. Используйте * для повторяющихся дат, "
+"разделение дат производится с помощью запятой, используйте слово 'to' для "
+"диапазона дат. Образец. *-12-25 to *-12-31 обозначает специальный сезон на "
+"каждое Рождество до Нового года, каждый год."
+
+#: framework/plugin-option.php:108
+msgid "Deposit Amount"
+msgstr "Размер депозита"
+
+#: framework/plugin-option.php:111
+msgid ""
+"Allow customer to pay part of price for booking the room ( as percent )."
+msgstr ""
+"Разрешить клиенту оплатить часть цены за забронированный номер (в процентах)."
+
+#: framework/plugin-option.php:115
+msgid "Payment Method"
+msgstr "Способ оплаты"
+
+#: framework/plugin-option.php:118
+msgid "Only Contact Form"
+msgstr "Только контактная форма"
+
+#: framework/plugin-option.php:119
+msgid "Include Instant Payment"
+msgstr "Включить мгновенную оплату"
+
+#: framework/plugin-option.php:123
+msgid "Instant Payment Method"
+msgstr "Способ мгновенной оплаты"
+
+#: framework/plugin-option.php:126
+msgid "Paypal"
+msgstr "Paypal"
+
+#: framework/plugin-option.php:127
+msgid "Stripe"
+msgstr "Stripe"
+
+#: framework/plugin-option.php:128
+msgid "Paymill"
+msgstr "Paymill"
+
+#: framework/plugin-option.php:129
+msgid "Authorize.Net"
+msgstr "Authorize.Net"
+
+#: framework/plugin-option.php:132
+msgid "Leaving this field blank will display all available payment method."
+msgstr "Если это поле пустое, то будут показаны все доступные способы оплаты"
+
+#: framework/plugin-option.php:135
+msgid "Booking Thumbnail Size"
+msgstr "Бронирование - Размер эскизов"
+
+#: framework/plugin-option.php:141
+msgid "Booking Num Fetch"
+msgstr "Booking Num Fetch"
+
+#: framework/plugin-option.php:146
+msgid "Booking Num Excerpt"
+msgstr "Booking Num Excerpt"
+
+#: framework/plugin-option.php:154
+msgid "Booking Mail"
+msgstr "Бронирование - почта"
+
+#: framework/plugin-option.php:157
+msgid "Recipient Name"
+msgstr "Имя получателя"
+
+#: framework/plugin-option.php:161
+msgid "Recipient Email"
+msgstr "Почта получателя"
+
+#: framework/plugin-option.php:165
+msgid "Booking Complete Contact"
+msgstr "Бронирование - контакт завершён"
+
+#: framework/plugin-option.php:169
+msgid "Booking Code Prefix"
+msgstr "Бронирование - код префикса"
+
+#: framework/plugin-option.php:180
+msgid "Single Room Thumbnail Size"
+msgstr "Размер эскиза одноместного номера"
+
+#: framework/plugin-option.php:189
+msgid "Paypal Info"
+msgstr "Paypal Инфо"
+
+#: framework/plugin-option.php:192
+msgid "Paypal Recipient Email"
+msgstr "Paypal Email получателя"
+
+#: framework/plugin-option.php:197
+msgid "Paypal Action URL"
+msgstr "Paypal Action URL"
+
+#: framework/plugin-option.php:202
+msgid "Paypal Currency Code"
+msgstr "Paypal Код валюты"
+
+#: framework/plugin-option.php:210
+msgid "Stripe Info"
+msgstr "Stripe Инфо"
+
+#: framework/plugin-option.php:213
+msgid "Stripe Secret Key"
+msgstr "Stripe секретный ключ"
+
+#: framework/plugin-option.php:217
+msgid "Stripe Publishable Key"
+msgstr "Stripe Публикуемый ключ"
+
+#: framework/plugin-option.php:221
+msgid "Stripe Currency Code"
+msgstr "Stripe Код валюты"
+
+#: framework/plugin-option.php:229
+msgid "Paymill Info"
+msgstr "Paymill Инфо"
+
+#: framework/plugin-option.php:232
+msgid "Paymill Private Key"
+msgstr "Paymill Частный ключ"
+
+#: framework/plugin-option.php:236
+msgid "Paymill Public Key"
+msgstr "Paymill Публичный ключ"
+
+#: framework/plugin-option.php:240
+msgid "Paymill Currency Code"
+msgstr "Paymill Код валюты"
+
+#: framework/plugin-option.php:248
+msgid "Authorize Info"
+msgstr "Authorize Инфо"
+
+#: framework/plugin-option.php:251
+msgid "Authorize API Login ID "
+msgstr "Authorize API Логин ID"
+
+#: framework/plugin-option.php:255
+msgid "Authorize Transaction Key"
+msgstr "Authorize Ключ платежа"
+
+#: framework/plugin-option.php:259
+msgid "Authorize MD5 Hash"
+msgstr "Authorize MD5 Hash"
+
+#: gdlr-hotel.php:71
+msgid "Done"
+msgstr "Готово"
+
+#: gdlr-hotel.php:72
+msgid "Today"
+msgstr "Сегодня"
+
+#: gdlr-hotel.php:75
+msgid "Show a different month"
+msgstr "Показать другой месяц"
+
+#: include/authorize-payment.php:31 include/gdlr-booking-item.php:109
+#: include/paymill-payment.php:160 include/paypal-payment.php:95
+#: include/stripe-payment.php:146
+msgid "New room booking received"
+msgstr "Забронирован новый номер"
+
+#: include/gdlr-booking-item.php:9
+msgid "1. Choose Date"
+msgstr "1. Выберите дату"
+
+#: include/gdlr-booking-item.php:10
+msgid "2. Choose Room"
+msgstr "2. Выберите комнату"
+
+#: include/gdlr-booking-item.php:11
+msgid "3. Make a Reservation"
+msgstr "3. Сделайте Заказ"
+
+#: include/gdlr-booking-item.php:12
+msgid "4. Confirmation"
+msgstr "4. Подтверждение"
+
+#: include/gdlr-booking-item.php:61
+msgid "Date field invalid"
+msgstr "Ошибка в поле даты"
+
+#: include/gdlr-booking-item.php:62
+msgid ""
+"Please select 'check in' and 'check out' date from reservation bar again."
+msgstr ""
+"Пожалуйста, повторно выберите \"Дату Заезда\" и \"Дату Выезда\" на панели "
+"резервирования."
+
+#: include/gdlr-booking-item.php:69
+msgid "Room Selection is Complete"
+msgstr "Выбор комнаты завершён"
+
+#: include/gdlr-booking-item.php:70
+msgid "You can edit your booking by using the panel on the left"
+msgstr "Вы можете отредактировать вашу бронь, используя панель слева"
+
+#: include/gdlr-booking-item.php:73
+msgid "Go to next step"
+msgstr "Перейти к следующему шагу"
+
+#: include/gdlr-booking-item.php:121
+msgid "Room Booking"
+msgstr "Бронирование номера"
+
+#: include/gdlr-booking-item.php:225
+msgid "Sorry, our hotel is closed on these following dates :"
+msgstr "Извините, наш отель закрыт на следующие даты :"
+
+#: include/gdlr-booking-item.php:318
+msgid "Sorry, there're no room available in these following dates :"
+msgstr "Извините, у нас нет свободных номеров на следующие даты :"
+
+#: include/gdlr-booking-item.php:321
+msgid "Sorry, there're no room available within selected dates."
+msgstr "Извините, но на выбранные даты нет свободных номеров."
+
+#: include/gdlr-booking-item.php:358
+msgid "Select this room"
+msgstr "Выбрать этот номер"
+
+#: include/gdlr-booking-item.php:413
+msgid "Please select your preferred additional services. (optional)"
+msgstr "Пожалуйста, выберите дополнительные услуги. (опционально)"
+
+#: include/gdlr-booking-item.php:437 include/gdlr-price-calculation.php:30
+msgid "cars"
+msgstr "Автомобили"
+
+#: include/gdlr-booking-item.php:476
+msgid "Name *"
+msgstr "Имя *"
+
+#: include/gdlr-booking-item.php:480
+msgid "Last Name *"
+msgstr "Фамилия *"
+
+#: include/gdlr-booking-item.php:485
+msgid "Email *"
+msgstr "Email *"
+
+#: include/gdlr-booking-item.php:489
+msgid "Phone *"
+msgstr "Телефон *"
+
+#: include/gdlr-booking-item.php:494
+msgid "Address"
+msgstr "Адрес"
+
+#: include/gdlr-booking-item.php:498
+msgid "Additional Note"
+msgstr "Дополнительный комментарий"
+
+#: include/gdlr-booking-item.php:509
+msgid "Book now by email and we will contact you back."
+msgstr "Забронируйте сейчас с помощью E-mail и мы свяжемся с Вами."
+
+#: include/gdlr-booking-item.php:513
+msgid "Or"
+msgstr "Или"
+
+#: include/gdlr-booking-item.php:534
+msgid "Pay Now"
+msgstr "Оплатить сейчас"
+
+#: include/gdlr-booking-item.php:554
+msgid "Payment Failed"
+msgstr "Ошибка оплаты"
+
+#: include/gdlr-booking-item.php:565
+msgid "Reservation Completed!"
+msgstr "Успешное резервирование!"
+
+#: include/gdlr-booking-item.php:569
+msgid ""
+"Your reservation details have just been sent to your email. If you have any "
+"question, please don't hesitate to contact us. Thank you!"
+msgstr ""
+"Детали вашего бронирования только что были отправлены на E-Mail. Если у Вас "
+"есть вопросы, пожалуйста, не стесняйтесь обращаться к нам. Спасибо!"
+
+#: include/gdlr-price-calculation.php:39
+msgid "guests"
+msgstr "Гости"
+
+#: include/gdlr-price-calculation.php:42
+msgid "room"
+msgstr "Номер"
+
+#: include/gdlr-price-calculation.php:216
+#: include/gdlr-price-calculation.php:221
+msgid "(Weekday)"
+msgstr "(Будни)"
+
+#: include/gdlr-price-calculation.php:218
+#: include/gdlr-price-calculation.php:223
+msgid "(Weekend)"
+msgstr "(Выходные)"
+
+#: include/gdlr-price-calculation.php:226
+#: include/gdlr-price-calculation.php:227
+msgid "Base Price"
+msgstr "Базовая цена"
+
+#: include/gdlr-price-calculation.php:228
+#: include/gdlr-price-calculation.php:229
+msgid "Special Season Base Price"
+msgstr "Спец. сезонная базовая цена"
+
+#: include/gdlr-price-calculation.php:230
+#: include/gdlr-price-calculation.php:231 include/gdlr-reservation-bar.php:88
+#: include/gdlr-reservation-bar.php:257
+msgid "Adult"
+msgstr "Взрослые"
+
+#: include/gdlr-price-calculation.php:232
+#: include/gdlr-price-calculation.php:233
+msgid "Special Season Adult"
+msgstr "Спец. сезонная цена за Взрослого"
+
+#: include/gdlr-price-calculation.php:234
+#: include/gdlr-price-calculation.php:235 include/gdlr-reservation-bar.php:89
+#: include/gdlr-reservation-bar.php:258 include/gdlr-reservation-bar.php:364
+#: include/page-builder-sync.php:99
+msgid "Children"
+msgstr "Дети"
+
+#: include/gdlr-price-calculation.php:236
+#: include/gdlr-price-calculation.php:237
+msgid "Special Season Children"
+msgstr "Спец. сезонная цена за Ребёнка"
+
+#: include/gdlr-price-calculation.php:254 include/gdlr-reservation-bar.php:120
+msgid "Total"
+msgstr "Итого"
+
+#: include/gdlr-price-calculation.php:255
+msgid "*vat is not included yet"
+msgstr "*НДС ещё не включён"
+
+#: include/gdlr-reservation-bar.php:13
+msgid "Your Reservation"
+msgstr "Ваше Бронирование"
+
+#: include/gdlr-reservation-bar.php:68
+msgid "Price Breakdown"
+msgstr "Распределение стоимости"
+
+#: include/gdlr-reservation-bar.php:129
+msgid "Coupon Discount"
+msgstr "Скидка по купону"
+
+#: include/gdlr-reservation-bar.php:138
+msgid "Vat"
+msgstr "НДС"
+
+#: include/gdlr-reservation-bar.php:149 include/gdlr-reservation-bar.php:175
+msgid "Grand Total"
+msgstr "Общий итог"
+
+#: include/gdlr-reservation-bar.php:158
+msgid "Pay Full Amount"
+msgstr "Оплатить полную сумму"
+
+#: include/gdlr-reservation-bar.php:159
+msgid "Pay"
+msgstr "Оплатить"
+
+#: include/gdlr-reservation-bar.php:164 include/gdlr-reservation-bar.php:186
+msgid "*Pay the rest on arrival"
+msgstr "*Оплатить остаток по прибытии"
+
+#: include/gdlr-reservation-bar.php:169
+msgid "Edit Booking"
+msgstr "Редактировать бронь"
+
+#: include/gdlr-reservation-bar.php:192
+msgid "Pay on arrival"
+msgstr "Оплата по прибытию"
+
+#: include/gdlr-reservation-bar.php:259
+msgid "Change Room"
+msgstr "Изменить номер"
+
+#: include/gdlr-reservation-bar.php:311 include/page-builder-sync.php:66
+msgid "Hotel Branches"
+msgstr "Разделы отеля"
+
+#: include/gdlr-reservation-bar.php:323 include/page-builder-sync.php:74
+msgid "Check In"
+msgstr "Дата заезда"
+
+#: include/gdlr-reservation-bar.php:337 include/page-builder-sync.php:86
+msgid "Check Out"
+msgstr "Дата выезда"
+
+#: include/gdlr-reservation-bar.php:357 include/page-builder-sync.php:92
+msgid "Adults"
+msgstr "Взрослые"
+
+#: include/gdlr-reservation-bar.php:378 include/gdlr-reservation-bar.php:380
+#: include/page-builder-sync.php:108
+msgid "Check Availability"
+msgstr "Поиск"
+
+#: include/gdlr-reservation-bar.php:435
+msgid "Please select hotel branch"
+msgstr "Пожалуйста, выберите раздел отеля"
+
+#: include/gdlr-reservation-bar.php:441
+msgid "* Please select branch"
+msgstr "* Пожалуйста, выберите раздел"
+
+#: include/gdlr-room-item.php:160 include/gdlr-room-item.php:193
+#: include/gdlr-room-item.php:222 include/gdlr-room-item.php:250
+#: include/gdlr-room-item.php:275
+msgid "Check Details"
+msgstr "Подробнее"
+
+#: include/gdlr-room-item.php:398
+msgid "* view price breakdown"
+msgstr "* показать разделение цены"
+
+#: include/gdlr-room-item.php:409
+msgid "Bed"
+msgstr "Кровать"
+
+#: include/gdlr-room-item.php:418
+msgid "Max"
+msgstr "Макс."
+
+#: include/gdlr-room-item.php:419
+msgid "People"
+msgstr "Человек"
+
+#: include/gdlr-room-item.php:427
+msgid "View"
+msgstr "Вид"
+
+#: include/gdlr-room-item.php:436
+msgid "Room Size"
+msgstr "Площадь комнаты"
+
+#: include/gdlr-room-item.php:445
+msgid "Wifi"
+msgstr "Wi-Fi"
+
+#: include/gdlr-room-item.php:454
+msgid "Breakfast Included"
+msgstr "Завтрак включён"
+
+#: include/gdlr-room-item.php:463
+msgid "Room Service"
+msgstr "Уборка номера"
+
+#: include/gdlr-room-item.php:472
+msgid "Airport Pickup Service"
+msgstr "Трансфер из аэропорта"
+
+#: include/gdlr-utility.php:19
+msgid "Contact Info"
+msgstr "Контактная информация"
+
+#: include/gdlr-utility.php:26
+msgid "Coupon :"
+msgstr "Купон :"
+
+#: include/gdlr-utility.php:38
+msgid "Room Information"
+msgstr "Информация о номере"
+
+#: include/gdlr-utility.php:46
+msgid "Check In :"
+msgstr "Дата заезда :"
+
+#: include/gdlr-utility.php:47
+msgid "Check Out :"
+msgstr "Дата выезда :"
+
+#: include/gdlr-utility.php:61
+msgid "Payment Information"
+msgstr "Платёжная информация"
+
+#: include/gdlr-utility.php:62
+msgid "Total Price :"
+msgstr "Итоговая стоимость :"
+
+#: include/gdlr-utility.php:66
+msgid "Booking Code :"
+msgstr "Код брони :"
+
+#: include/gdlr-utility.php:70
+msgid "Payment Method : Stripe"
+msgstr "Способ оплаты : Stripe"
+
+#: include/gdlr-utility.php:71 include/gdlr-utility.php:74
+#: include/gdlr-utility.php:77 include/gdlr-utility.php:80
+msgid "Transaction ID :"
+msgstr "ID платежа :"
+
+#: include/gdlr-utility.php:73
+msgid "Payment Method : Paypal"
+msgstr "Способ оплаты : Paypal"
+
+#: include/gdlr-utility.php:76
+msgid "Payment Method : Paymill"
+msgstr "Способ оплаты : Paymill"
+
+#: include/gdlr-utility.php:79
+msgid "Payment Method : Authorize"
+msgstr "Способ оплаты : Authorize"
+
+#: include/gdlr-utility.php:107
+msgid "Please fill all required fields."
+msgstr "Пожалуйста, заполните все обязательные поля"
+
+#: include/gdlr-utility.php:110
+msgid "Email is invalid."
+msgstr "Неправильный E-mail"
+
+#: include/page-builder-sync.php:10
+msgid "Hotel Room Availability"
+msgstr "Номер доступен"
+
+#: include/paymill-payment.php:21 include/stripe-payment.php:21
+msgid "Card Number"
+msgstr "Номер карты"
+
+#: include/paymill-payment.php:27 include/stripe-payment.php:27
+msgid "CVC"
+msgstr "CVC"
+
+#: include/paymill-payment.php:33 include/stripe-payment.php:33
+msgid "Expiration (MM/YYYY)"
+msgstr "Срок действия (MM/YYYY)"
+
+#: include/paymill-payment.php:40 include/stripe-payment.php:40
+msgid "loading"
+msgstr "загрузка..."
+
+#: include/paymill-payment.php:42 include/stripe-payment.php:42
+msgid "Submit Payment"
+msgstr "Отправить платёж"
+
+#: include/paymill-payment.php:163
+msgid "Payment complete"
+msgstr "Оплата завершена"
+
+#: include/paymill-payment.php:171 include/stripe-payment.php:157
+msgid "Failed to proceed, please try again."
+msgstr "Не удалось продолжить, пожалуйста, попробуйте еще раз."
+
+#: include/stripe-payment.php:149
+msgid "Payment complete."
+msgstr "Оплата завершена."

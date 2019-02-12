@@ -1,0 +1,128 @@
+.gdlr-transaction-wrapper h3{ margin-bottom: 30px; font-size: 18px; }
+
+.gdlr-transaction-form .gdlr-combobox-wrapper { display: inline-block; margin-left: 15px; float: left; }
+.gdlr-transaction-form .gdlr-combobox-wrapper select{ height: 34px; padding: 0px 5px; }
+.gdlr-transaction-form .gdlr-combobox-wrapper select:focus{ box-shadow: none; }
+.gdlr-transaction-form .gdlr-transaction-head{ float: left; line-height: 32px; color: #8f8f8f; }
+.gdlr-transaction-form .gdlr-transaction-row{ overflow: hidden; margin-bottom: 20px; }
+.gdlr-transaction-form .gdlr-transaction-sep{ float: left; margin-left: 15px; margin-right: 5px; font-weight: bold; color: #888; line-height: 32px; }
+.gdlr-transaction-form input[type="text"] { margin: 0px 0px 0px 15px; display: inline-block;  
+	float: left; padding: 6px 10px 7px; }
+.gdlr-transaction-form input[type="submit"] { margin: 0px; background: #000; color: #fff;
+    border: none; outline: none;  padding: 8px 12px; font-size: 12px; font-weight: bold;
+	display: inline-block; float: left; cursor: pointer; }
+.gdlr-transaction-form input.gdlr-with-margin[type="submit"]{ margin-left: 10px; }
+	
+.gdlr-transaction-type { margin-top: 30px; }	
+.gdlr-button{ background: transparent; color: #7b9da0; text-decoration: none; text-transform: uppercase; 
+	font-weight: bold; font-size: 12px; padding: 8px 16px; margin-right: 13px; 
+	display: inline-block; border: 2px solid #7b9da0; cursor: pointer; }
+.gdlr-button:hover{ color: #7b9da0; }
+.gdlr-button:focus{ outline: none; box-shadow: none; }
+.gdlr-button.gdlr-active{ background: #7b9da0; color: #fff; }
+
+.gdlr-transaction-table { margin-top: 30px; margin-right: 20px; }
+.gdlr-transaction-table table { width: 100%; border-collapse: collapse; background: #fff; border-bottom: 20px solid #fff; }
+.gdlr-transaction-table table th,
+.gdlr-transaction-table table td{ border-spacing: 0px; text-align: center; margin: 0; }
+.gdlr-transaction-table table th{ background: #343434; color: #ffffff; padding: 12px 0px;  }
+.gdlr-transaction-table table td{ padding: 15px 0px 0px; }
+.gdlr-transaction-table table th:first-child,
+.gdlr-transaction-table table td:first-child{ text-align: left; padding-left: 20px; }
+.gdlr-transaction-table table input[type="checkbox"]{ margin-right: 10px; }
+.gdlr-transaction-pagination{ margin-top: 20px; text-align: right; }
+.gdlr-transaction-pagination > span { padding: 10px 12px; display: inline-block; background: #000; color: #fff; margin-left: 3px; }
+.gdlr-transaction-pagination > a { padding: 10px 12px; display: inline-block; background: #555; color: #fff; margin-left: 3px; text-decoration: none; }
+
+.transaction-open-detail{ cursor: pointer; }
+.transaction-description-wrapper { position: fixed; top: 50%; left: 50%;
+    width: 440px; margin-left: -205px; margin-top: -200px; text-align: left;
+    background: #f5f5f5; border: 4px solid #e8e8e8; padding: 40px 30px 30px; display: none; }
+.transaction-description-wrapper i.close-transaction-description{ position: absolute; 
+	right: 10px; top: 10px; font-size: 16px; color: #949494; cursor: pointer; }
+.transaction-description { margin-bottom: 12px; font-size: 13px; }
+.transaction-description.gdlr-large{ font-size: 18px; padding-top: 15px; }
+.transaction-description .gdlr-head { font-weight: bold; margin-right: 10px; }
+.transaction-description.gdlr-room { padding-top: 12px; }
+.transaction-description .gdlr-desc span { margin-right: 13px; }
+.transaction-description .gdlr-desc span.gdlr-sep{ margin-left: 13px; }
+.transaction-description .gdlr-desc { margin-top: 4px; }
+
+.transaction-branches { color: #f37d43; font-size: 20px; font-weight: bold; 
+	text-transform: uppercase; margin-bottom: 15px; }
+
+.transaction-bulk { margin-bottom: 20px; float: left; }
+.transaction-bulk .transaction-bulk-title { font-weight: bold; margin-right: 10px; }
+.transaction-bulk .transaction-bulk-read,
+.transaction-bulk .transaction-bulk-unread { margin-right: 5px; color: #f37d43; cursor: pointer; }
+.transaction-bulk .transaction-bulk-cancel { margin-left: 5px; color: #ec4242; cursor: pointer; }
+
+.transaction-filter { margin-bottom: 20px; }
+.transaction-filter a{ text-decoration: none; color: #777; }
+.transaction-filter a.gdlr-active{ color: #222; }
+.transaction-filter .gdlr-hotel-sep{ margin: 0px 10px; }
+.transaction-filter .transaction-filter-title { font-weight: bold; margin-right: 10px; }
+
+.transaction-sort { margin-bottom: 20px; float: right; }
+.transaction-sort .transaction-sort-title { font-weight: bold; margin-right: 15px; }
+.transaction-sort a{ text-decoration: none; color: #888; margin-right: 15px; }
+.transaction-sort a:after{ content: "\f0de"; font-family: fontAwesome; margin-left: 9px; display: inline-block; vertical-align: sub; }
+.transaction-sort a.gdlr-active:after{ content: "\f0dd"; vertical-align: text-bottom }
+
+/*--- confirm box ---*/
+.gdlr-confirm-wrapper{ position: fixed; z-index: 99999; top: 45%; left: 50%; width:320px;
+	padding:40px 25px; background: #000; background: rgba(0, 0, 0, 0.7);
+	color:#fff; font-size: 12px; text-align: center; opacity: 0; filter: alpha(opacity=0); }
+.gdlr-confirm-wrapper .head{ font-size: 13px; line-height: 25px; font-weight: bold; display: block; margin-bottom: 25px; }
+
+.gdlr-confirm-wrapper .gdlr-button { display: inline-block; height: 28px; line-height: 28px; cursor: pointer; 
+	font-weight: bold; margin: 0px 15px; padding: 0px 20px 0px 20px; text-shadow: #000 0 0px 0;
+
+	-moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px;
+	-moz-box-shadow: 1px 1px 3px #444; -webkit-box-shadow: 1px 1px 3px #444; box-shadow: 1px 1px 3px #444; }
+.gdlr-confirm-wrapper .confirm-yes { border: 1px solid #f5b74e; background-color: #f5b74e; color: #996633; 
+	background-repeat: repeat-x; background-image: url('/images/alert-box/button-confirm.png'); }
+	
+.gdlr-confirm-wrapper .confirm-no { border: 1px solid #de6b85; background-color: #de6b85; color: #913945;
+	background-repeat: repeat-x; background-image: url('/images/alert-box/button-decline.png'); }
+
+.transaction-type-booking{ color: #ff9313; }
+.transaction-type-deposit{ color: #42c3b2; }
+.transaction-paid-normal{ color: #5aba67; }
+.transaction-paid-online{ color: #5aba67; }
+
+.gdlr-mark-as-read, .gdlr-mark-as-unread, .gdlr-mark-as-paid, .gdlr-mark-as-booking, .gdlr-mark-as-remove{ 
+	display: inline-block; width: 22px; line-height: 22px; text-align: center; color: #fff !important; margin-right: 5px; }
+.gdlr-mark-as-read{ background: #5f87a0; }
+.gdlr-mark-as-paid{ background: #5fa08d; }
+.gdlr-mark-as-remove{ background: #b15151; }
+.gdlr-mark-as-unread, .gdlr-mark-as-booking{ background: #ccc; }
+
+/* jquery ui datepicker */
+.ui-datepicker{ padding: 20px; text-align: center; }
+.ui-datepicker.ui-widget{ display: none; background: #fff; border: 2px solid #ddd; }
+.ui-datepicker .ui-datepicker-header { position: relative; padding: .2em 0; }
+.ui-datepicker .ui-datepicker-prev,
+.ui-datepicker .ui-datepicker-next { cursor: pointer; display: block; position: absolute; font-family: fontAwesome; 
+	padding: 4px; line-height: 20px; width: 20px; height: 20px; text-align: center; }
+.ui-datepicker .ui-datepicker-prev span,
+.ui-datepicker .ui-datepicker-next span{ display: none; }
+.ui-datepicker .ui-datepicker-prev { left: 0px; }
+.ui-datepicker .ui-datepicker-prev:before{ content: "\f104"; }
+.ui-datepicker .ui-datepicker-next { right: 0px; }
+.ui-datepicker .ui-datepicker-next:after{ content: "\f105"; }
+.ui-datepicker .ui-datepicker-title { margin: 0 2.3em; line-height: 1.8em; text-align: center; }
+.ui-datepicker .ui-datepicker-title select { font-size: 1em; margin: 1px 0; }
+.ui-datepicker select.ui-datepicker-month,
+.ui-datepicker select.ui-datepicker-year { width: 45%; }
+.ui-datepicker table { width: 259px; border-collapse: collapse; margin: 0px auto; }
+.ui-datepicker th { font-weight: normal; background: transparent; font-size: 14px; padding: 8px 0px; }
+.ui-datepicker td { border: 0; padding: 1px; }
+.ui-datepicker td span,
+.ui-datepicker td a { display: block; text-decoration: none; 
+  width: 29px; height: 29px; padding: 3px; line-height: 29px; }
+.ui-datepicker .ui-datepicker-buttonpane { background-image: none; margin: .7em 0 0 0; 
+	padding: 0 .2em; border-left: 0; border-right: 0; border-bottom: 0; }
+.ui-datepicker .ui-datepicker-buttonpane button { float: right; margin: .5em .2em .4em;
+	cursor: pointer; padding: .2em .6em .3em .6em; width: auto; overflow: visible; }
+.ui-datepicker .ui-datepicker-buttonpane button.ui-datepicker-current { float: left; }
