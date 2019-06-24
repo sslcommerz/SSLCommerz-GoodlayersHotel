@@ -64,8 +64,8 @@ if( !function_exists('gdlr_get_sslcommerz_form') ){
 	        # Customer Info===
 	        
 	        $post_data['cus_name'] =  $option['contact']['first_name'].' '.$option['contact']['last_name'];
-	        $post_data['cus_email'] = $option['email'];
-	        $post_data['cus_phone'] = $option['phone'];
+	        $post_data['cus_email'] = $option['contact']['email'];
+	        $post_data['cus_phone'] = $option['contact']['phone'];
 	        
 	        # END===
 	        
