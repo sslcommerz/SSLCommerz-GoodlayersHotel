@@ -1,6 +1,17 @@
-Goodlayers Hotel Plugin
--------------------------------------------------
+# Goodlayers Hotel Plugin
+
+### Prerequisites
+
+1. PHP 5.6-7.2 and Mysql.
+2. cURL php extension.
+3. [Sandbox Account](https://developer.sslcommerz.com/registration/ "SSLCommerz Sandbox Registration")
+4. Wordpress 5.X
+5. `Goodlayer Hotel Theme` (Mandatory)
+
+### Installation
+
 *** Note: A HOTEL ROOM Plugin To Use With Goodlayers Theme (This plugin functionality might not working properly on another theme)
+
 1. Download plugin from github.
 2. Install plugin.
 3. After successfully installation of plugin, you will get Hotel Option.
@@ -12,7 +23,7 @@ Goodlayers Hotel Plugin
 9. Do a transection.
 
 ---------------------------------------------------
-- Author : Prabal Mallick (prabal.mallick@sslwireless.com)
+- Author : Prabal Mallick
 - Team Email: integration@sslcommerz.com (For any query)
 - More info: https://www.sslcommerz.com
 
